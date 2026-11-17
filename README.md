@@ -86,14 +86,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroLssouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLssouza&layout=compact&theme=tokyonight" />
-</div>
-
----
 
 <div align="center">
   <p>📬 Sinta-se à vontade para entrar em contato ou explorar meus repositórios!</p>
